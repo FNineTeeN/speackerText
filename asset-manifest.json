@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/speackerText/static/css/main.33a3c43f.css",
+    "main.js": "/speackerText/static/js/main.21cb3689.js",
+    "static/media/crosshair-white.svg": "/speackerText/static/media/crosshair-white.5b6bd9c6ca9d69b50335b7f2e9b546bf.svg",
+    "static/media/close-green.svg": "/speackerText/static/media/close-green.f08b14dbff168db49ff7a4f537640923.svg",
+    "static/media/document-green.svg": "/speackerText/static/media/document-green.b64d0502395a09e91841a076ac3c6a02.svg",
+    "static/media/document-white.svg": "/speackerText/static/media/document-white.15a8d521b23b937b28258e8aab948d51.svg",
+    "index.html": "/speackerText/index.html",
+    "static/media/crosshair.svg": "/speackerText/static/media/crosshair.fd69c51208b37107574beec527d0b654.svg",
+    "static/media/play.svg": "/speackerText/static/media/play.69c04f424e0d1a7cdd713e0c1ccef640.svg",
+    "static/media/pause.svg": "/speackerText/static/media/pause.028ddf84f7edb7f60df00d5f5d3bdc7d.svg",
+    "static/media/stop.svg": "/speackerText/static/media/stop.52b4d025ca4ca9b60530076c9c8354e9.svg",
+    "main.33a3c43f.css.map": "/speackerText/static/css/main.33a3c43f.css.map",
+    "main.21cb3689.js.map": "/speackerText/static/js/main.21cb3689.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33a3c43f.css",
+    "static/js/main.21cb3689.js"
+  ]
+}
